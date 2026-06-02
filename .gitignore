@@ -1,0 +1,4 @@
+.env
+pdfs/
+md/
+__pycache__/

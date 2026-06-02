@@ -1,0 +1,6 @@
+pymupdf
+mistralai
+pillow
+python-dotenv
+tqdm
+tenacity
