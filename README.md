@@ -52,9 +52,7 @@ python extractor.py
 ## Example 
 
 ### Input (PDF Page)
-- Contains "CONFIDENTIAL" watermark
-- Two-column table side-by-side
-- Checklists
+- You can edit the prompt to your requirement, if you have any water mark you want to remove or specific formatting to do
 
 ### Output (Generated Markdown)
 - Pure Markdown tables `| Column 1 | Column 2 |`
